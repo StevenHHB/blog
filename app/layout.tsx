@@ -22,6 +22,11 @@ export const metadata: Metadata = {
     siteName: 'Steven Huang',
     locale: 'en_US',
     type: 'website',
+    images: [
+      {
+        url: `${baseUrl}/app/og/your-new-image.jpg`,
+      },
+    ],
   },
   robots: {
     index: true,
