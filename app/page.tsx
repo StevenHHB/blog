@@ -11,13 +11,13 @@ export default function Page() {
 
         Some of the things I love most: 
 
-        • humanity
-        • innovation
-        • possibility.
+        • Humanity
+        • Innovation
+        • Possibility
 
-        Few things about me:
-        
-        • Grew up in Beijing, China & spent 10 years in the US
+        About me:
+
+        • Grew up in China & spent 10 years in the US
         • Taught myself programming through YouTube & GitHub
         • Started 2 companies in EdTech & productivity sector with 1.5M+ users
         • Fields of interest: AI, consumer hardware & EdTech
