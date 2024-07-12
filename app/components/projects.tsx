@@ -3,11 +3,6 @@ import Link from 'next/link'
 const projects = [
     {
         title: 'KeoPlus',
-        description: 'ALl-in-one smart EdTech tool for teachers and students.',
-        link: 'https://keo.plus',
-    },
-    {
-        title: 'KeoPlus',
         description: 'All-in-one smart EdTech tool for teachers and students.',
         link: 'https://keo.plus',
     },
