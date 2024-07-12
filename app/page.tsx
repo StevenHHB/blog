@@ -8,8 +8,15 @@ export default function Page() {
       </h1>
       <p className="mb-4 whitespace-pre-line">
         {`I am an entrepreneur.
-        Some of the things I love most: humanity, innovation, and possibility.
+
+        Some of the things I love most: 
+
+        • humanity
+        • innovation
+        • possibility.
+
         Few things about me:
+        
         • Grew up in Beijing, China & spent 10 years in the US
         • Taught myself programming through YouTube & GitHub
         • Started 2 companies in EdTech & productivity sector with 1.5M+ users
