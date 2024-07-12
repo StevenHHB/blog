@@ -13,9 +13,6 @@ const navItems = {
   '/leave-a-message': {
     name: 'leave a message',
   },
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
-    name: 'deploy',
-  },
 }
 
 export function Navbar() {

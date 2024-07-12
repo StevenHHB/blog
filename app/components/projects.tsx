@@ -2,16 +2,31 @@ import Link from 'next/link'
 
 const projects = [
     {
-        title: 'Project One',
-        description: 'Description for project one.',
-        link: 'https://example.com/project-one',
+        title: 'KeoPlus',
+        description: 'ALl-in-one smart EdTech tool for teachers and students.',
+        link: 'https://keo.plus',
     },
     {
-        title: 'Project Two',
-        description: 'Description for project two.',
-        link: 'https://example.com/project-two',
+        title: 'KeoPlus',
+        description: 'All-in-one smart EdTech tool for teachers and students.',
+        link: 'https://keo.plus',
     },
-    // Add more projects here
+    {
+        title: 'SHUO',
+        description: 'Accelerated social network powered by AI.',
+        link: 'https://theshuo.cn',
+    },
+    {
+        title: 'CVBaby',
+        description: 'All-in-one AI resume tool',
+        link: 'https://cvbaby.com',
+    },
+    {
+        title: 'FounderXYZ',
+        description: 'Resource collections for founders.',
+        link: 'https://founderxyz.com',
+    },
+
 ]
 
 export function Projects() {
