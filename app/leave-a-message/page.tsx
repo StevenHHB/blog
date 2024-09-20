@@ -14,6 +14,13 @@ export default function LeaveMessagePage() {
                 </a>
                 {`.`}
             </p>
+            <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+                Or schedule a calendly if you are want to talk to me
+            </h1>
+            <div class="calendly-inline-widget" data-url="https://calendly.com/stevenhhb/inquiry" style="min-width:320px;height:700px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
         </section>
     )
 }
+
+
