@@ -30,10 +30,10 @@ export default function SubscribeForm() {
                 className="w-full max-w-md p-6 bg-white dark:bg-gray-900 rounded-xl shadow-lg transition-colors duration-300"
             >
                 <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4 text-center">
-                    Subscribe to Our Newsletter
+                    Subscribe to My Personal Newsletter
                 </h2>
                 <p className="text-gray-600 dark:text-gray-300 mb-6 text-center">
-                    Stay updated with our latest content and news.
+                    I try to write from time to time
                 </p>
 
                 <div className="relative">
