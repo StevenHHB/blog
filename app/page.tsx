@@ -1,4 +1,5 @@
 import { BlogPosts } from 'app/components/posts';
+import SubscribeForm from 'app/components/SubscribeForm';
 
 export default function Page() {
   return (
@@ -6,6 +7,8 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Steven Huang
       </h1>
+      <p>Subscribe to my personal newsletter!</p>
+      <SubscribeForm />
       <p className="mb-4 whitespace-pre-line">
         {`I am an entrepreneur.
 
