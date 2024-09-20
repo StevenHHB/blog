@@ -15,7 +15,7 @@ export default function LeaveMessagePage() {
                 {`.`}
             </p>
             <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-                Or schedule a calendly if you really want to talk to me
+                Or schedule a quick chat if you really want to talk to me
             </h1>
             <div className="calendly-inline-widget" data-url="https://calendly.com/stevenhhb/inquiry" style={{ minWidth: '320px', height: '700px' }}></div>
             <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
