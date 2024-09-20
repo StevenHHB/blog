@@ -33,6 +33,7 @@ export default function SubscribeForm() {
             setStatus('Success! You have been subscribed.');
         } catch (error) {
             setStatus('An error occurred while subscribing. Try again.');
+            console.log(error)
         }
     };
 
