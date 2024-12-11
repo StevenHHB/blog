@@ -2,26 +2,45 @@ import Link from 'next/link'
 
 const projects = [
     {
+        title: 'Savable AI',
+        description: 'Intelligent coupon and discount aggregator that helps you find the best deals across multiple platforms with AI-powered price tracking and recommendations.',
+        link: 'https://savable.ai',
+    },
+    {
+        title: 'Nikita Systems',
+        description: 'Revolutionary AI-driven marketing platform that automates complex marketing strategies, optimizes campaign performance, and provides end-to-end business growth solutions.',
+        link: 'https://nikita.systems',
+    },
+    {
+        title: 'SocialTargeter',
+        description: 'Advanced social media intelligence tool that instantly identifies and analyzes potential customers based on real-time engagement metrics and behavioral insights.',
+        link: 'https://SocialTargeter.com',
+    },
+    {
+        title: 'Use DotCom',
+        description: 'AI-powered domain name discovery platform that helps entrepreneurs and startups find memorable, available .com domains with instant brand potential analysis.',
+        link: 'https://usedotcom.com',
+    },
+    {
         title: 'KeoPlus',
-        description: 'All-in-one smart EdTech tool for teachers and students.',
+        description: 'Comprehensive AI-enhanced educational platform that transforms learning experiences with personalized tools for teachers, students, and educational institutions.',
         link: 'https://keo.plus',
     },
     {
         title: 'SHUO',
-        description: 'Accelerated social network powered by AI.',
+        description: 'Next-generation social network leveraging artificial intelligence to create more meaningful connections, intelligent content curation, and seamless user interactions.',
         link: 'https://theshuo.cn',
     },
     {
         title: 'CVBaby',
-        description: 'All-in-one AI resume tool',
+        description: 'Cutting-edge AI resume builder that transforms your professional experience into compelling, recruiter-optimized documents with intelligent formatting and content suggestions.',
         link: 'https://cvbaby.com',
     },
     {
         title: 'FounderXYZ',
-        description: 'Resource collections for founders.',
+        description: 'Curated knowledge hub providing comprehensive resources, tools, and insights for entrepreneurs, startup founders, and innovators at every stage of their journey.',
         link: 'https://founderxyz.com',
     },
-
 ]
 
 export function Projects() {
