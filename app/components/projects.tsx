@@ -2,6 +2,11 @@ import Link from 'next/link'
 
 const projects = [
     {
+        title: 'Kolect AI',
+        description: 'Connect Small Businesses with Micro Creators at scale through AI',
+        link: 'https://kolect.ai',
+    },
+    {
         title: 'Savable AI',
         description: 'Intelligent coupon and discount aggregator that helps you find the best deals across multiple platforms with AI-powered price tracking and recommendations.',
         link: 'https://savable.ai',
